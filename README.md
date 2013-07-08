@@ -1,6 +1,6 @@
 # meowbify.js
 
-This is a small javascript that will [meowbify](http://meowbify.com) your site.  
+Add this small javascript on your server and [meowbify](http://meowbify.com) your site.  
 Meowbify needs access to your site so this will of course not work locally.
 
 ## Usage

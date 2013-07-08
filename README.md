@@ -1,4 +1,4 @@
 meowbify.js
 ===========
 
-This is a small javascript that will meowbify (see http://meowbify.com) your site.
+This is a small javascript that will [meowbify](http://meowbify.com) your site.
